@@ -5,7 +5,7 @@ using namespace std;
 void liniowe(float a, float b) {
     if (a == 0)
         if (b == 0)
-            cout << "Rownaie tozsamosciowe" << endl;
+            cout << "Rownanie tozsamosciowe" << endl;
         else
             cout << "Rownanie sprzeczne" << endl;
     else {
